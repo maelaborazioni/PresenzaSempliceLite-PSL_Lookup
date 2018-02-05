@@ -1,0 +1,15 @@
+dataSource:"db:/ma_framework/psl_hours_processingstate",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"408C1290-3F73-4D8B-977E-4C2ABBA00791"
+}
+],
+name:"psl_lkp_hours_processingstate",
+showInMenu:true,
+styleName:"psl",
+typeid:3,
+uuid:"274E8FF8-7FB4-4A9C-BFBA-F8BDFEA7B964"
